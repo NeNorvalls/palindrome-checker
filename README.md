@@ -31,7 +31,7 @@ This is a simple web application that allows users to check if a given text is a
 
 This project is deployed on Netlify:
 
-- [Live Demo](Netlify_Link)
+- [Live Demo](https://palindrome-checker-2024.netlify.app/)
 
 ## File Structure
 
